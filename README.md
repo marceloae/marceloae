@@ -41,7 +41,7 @@ Automation framework for orchestrating dataset refreshes using APIs and Logic Ap
 
 ## 📝 Content & Community
 
-- LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+- LinkedIn: https://www.linkedin.com/in/marceloeugenio/
 - Data Fabric (coming soon)
 
 ---
