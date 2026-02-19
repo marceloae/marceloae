@@ -1,23 +1,51 @@
 # Marcelo Almeida Eugênio
 
-Data & Analytics Architect focused on modern data platforms, automation and governance.
+Data & Analytics Architect focused on designing modern data platforms with governance, automation and scalable analytics.
 
-**Core stack:** Microsoft Fabric • Databricks • Power BI • Delta Lake • Azure
+## 🚀 Core Stack
+Microsoft Fabric • Databricks • Power BI • Delta Lake • Azure Data Platform
 
-## Featured work
-- **Reference Architecture (Fabric/Lakehouse):** (link do repo quando criar)
-- **Databricks Production Patterns:** (link do repo quando criar)
-- **Power BI Automation (datasets/refresh/orchestration):** (link do repo quando criar)
-- **LGPD & Data Governance Playbook:** (link do repo quando criar)
+---
 
-## What I do
-- End-to-end data platform design (Lakehouse / Warehouse / Semantic layer)
-- DataOps: CI/CD, orchestration, monitoring, reliability patterns
-- Governance & security: data classification, access control, privacy by design
-- Analytics enablement: metrics, performance tuning, scalable modeling
+## 🧱 Featured Projects
 
-## Content
-- LinkedIn: (https://www.linkedin.com/in/marceloeugenio/)
+### Fabric Data Platform Reference
+Reference architecture for building enterprise-grade Lakehouse platforms using Microsoft Fabric.
 
-## Contact
-- E-mail: (marcelo_eugenio@hotmail.com)
+➡️ https://github.com/marceloae/fabric-data-platform-reference
+
+---
+
+### Databricks Production Patterns
+Practical patterns for reliable and scalable data pipelines in Databricks.
+
+➡️ https://github.com/marceloae/databricks-production-patterns
+
+---
+
+### Power BI Automation Kit
+Automation framework for orchestrating dataset refreshes using APIs and Logic Apps.
+
+➡️ https://github.com/marceloae/powerbi-automation-kit
+
+---
+
+## 🎯 What I Do
+
+- Design end-to-end data platforms (Lakehouse & Warehouse)
+- Implement DataOps and automation strategies
+- Build scalable analytics foundations
+- Apply governance and privacy-by-design principles
+
+---
+
+## 📝 Content & Community
+
+- LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+- Data Fabric (coming soon)
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate.
