@@ -1,16 +1,23 @@
-## Hi there 👋
+# Marcelo Almeida Eugênio
 
-<!--
-**marceloae/marceloae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Analytics Architect focused on modern data platforms, automation and governance.
 
-Here are some ideas to get you started:
+**Core stack:** Microsoft Fabric • Databricks • Power BI • Delta Lake • Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- **Reference Architecture (Fabric/Lakehouse):** (link do repo quando criar)
+- **Databricks Production Patterns:** (link do repo quando criar)
+- **Power BI Automation (datasets/refresh/orchestration):** (link do repo quando criar)
+- **LGPD & Data Governance Playbook:** (link do repo quando criar)
+
+## What I do
+- End-to-end data platform design (Lakehouse / Warehouse / Semantic layer)
+- DataOps: CI/CD, orchestration, monitoring, reliability patterns
+- Governance & security: data classification, access control, privacy by design
+- Analytics enablement: metrics, performance tuning, scalable modeling
+
+## Content
+- LinkedIn: (https://www.linkedin.com/in/marceloeugenio/)
+
+## Contact
+- E-mail: (marcelo_eugenio@hotmail.com)
